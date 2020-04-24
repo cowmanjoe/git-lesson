@@ -8,6 +8,8 @@ function printNames() {
 
   console.log(data.toString());
   })
+
+  console.log('Hello world!');
 }
 
 printNames();
